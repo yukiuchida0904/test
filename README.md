@@ -7,3 +7,6 @@ hogehoge
  + fuga 
  hoge
  #from Github
+
+#from Github
+pullのテストを行います
